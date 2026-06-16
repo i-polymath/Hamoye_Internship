@@ -1,2 +1,2 @@
 # Hamoye_Internship
-My codes and assignments and stuff for the 2020 Hamoye Data Science Internship resides here
+Python codes for assignments submitted under the Hamoye Internship (2020). 
